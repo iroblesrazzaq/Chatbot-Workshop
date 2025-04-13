@@ -6,4 +6,7 @@ python -m venv myenv
 mac:
 python3 -m venv myenv
 
+install requirements:
+
+pip/pip3 install -r requirements.txt
 
